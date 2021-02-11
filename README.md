@@ -1,4 +1,8 @@
 # facebook_crawler
+First Task-Login
+1. Open "facebook.com" 
+2. Enter the email address and the password 
+
 A bot to crawl facebook which scrapes many things of a user such as:
 
     1. Uploaded and Tagged photos
